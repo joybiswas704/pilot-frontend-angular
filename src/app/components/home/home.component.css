@@ -1,0 +1,35 @@
+.box {
+  background-color: white;
+  width: 500px;
+  border-radius: 15px;
+}
+
+.navbar-brand {
+  color: #5f2ee5;
+  font-weight: 700;
+  font-size: 25px;
+}
+
+.main-heading {
+  font-size: 2.5rem;
+  color: #5f2ee5;
+  margin-top: 20px;
+  letter-spacing: 2px;
+  font-weight: 700;
+  line-height: 1;
+}
+
+.text {
+  color: gray;
+}
+
+.highlight {
+  display: block;
+}
+
+.form {
+  background: #5f2de3;
+  padding: 15px;
+  border-radius: 15px;
+  color: white;
+}
